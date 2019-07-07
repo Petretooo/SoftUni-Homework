@@ -5,8 +5,4 @@ public final class MuseElf extends Elf {
         super(username, level);
     }
 
-    @Override
-    public String toString() {
-        return super.toString();
-    }
 }

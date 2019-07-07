@@ -5,8 +5,4 @@ public class DarkWizard extends Wizard {
         super(username, level);
     }
 
-    @Override
-    public String toString() {
-        return super.toString();
-    }
 }

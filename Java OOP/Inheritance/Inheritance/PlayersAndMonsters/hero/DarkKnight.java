@@ -1,4 +1,4 @@
-package Inheritance.PlayersAndMonsters.hero;
+package hero;
 
 public class DarkKnight extends Knight {
     public DarkKnight(String username, int level) {
@@ -7,9 +7,6 @@ public class DarkKnight extends Knight {
 
     @Override
     public String toString() {
-        return String.format("Type: %s Username: %s Level: %d",
-                this.getClass().getName(),
-                this.getUsername(),
-                this.getLevel());
+        return super.toString();
     }
 }

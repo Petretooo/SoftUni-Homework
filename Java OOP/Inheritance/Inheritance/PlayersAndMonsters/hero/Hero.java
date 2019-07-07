@@ -1,4 +1,4 @@
-package Inheritance.PlayersAndMonsters.hero;
+package hero;
 
 public class Hero {
     private String username;
@@ -19,6 +19,9 @@ public class Hero {
 
     @Override
     public String toString() {
-        return super.toString();
+        return String.format("Type: %s Username: %s Level: %d",
+                this.getClass().getName(),
+                this.getUsername(),
+                this.getLevel());
     }
 }

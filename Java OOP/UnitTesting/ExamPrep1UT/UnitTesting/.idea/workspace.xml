@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d93f2b2f-da8e-48d5-8ca0-2fb15f242936" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1PCS8Z5ygGHJ30DrcDcTlvlJtAI" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RaceEntryTest.gettingAndTryingToModiftTheCollectionShouldThrowAnException">
+    <configuration name="RaceEntryTest.addMethodShouldThrowIllegalException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpg-exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unitTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unitTesting" />
+      <option name="MAIN_CLASS_NAME" value="unitTesting.RaceEntryTest" />
+      <option name="METHOD_NAME" value="addMethodShouldThrowIllegalException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceEntryTest.addMethodShouldThrowNullException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpg-exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unitTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unitTesting" />
+      <option name="MAIN_CLASS_NAME" value="unitTesting.RaceEntryTest" />
+      <option name="METHOD_NAME" value="addMethodShouldThrowNullException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceEntryTest.calculationMathodShouldWorkCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpg-exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unitTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unitTesting" />
+      <option name="MAIN_CLASS_NAME" value="unitTesting.RaceEntryTest" />
+      <option name="METHOD_NAME" value="calculationMathodShouldWorkCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceEntryTest.calculationMethodShouldThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpg-exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unitTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unitTesting" />
+      <option name="MAIN_CLASS_NAME" value="unitTesting.RaceEntryTest" />
+      <option name="METHOD_NAME" value="calculationMethodShouldThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceEntryTest.gettingAndTryingToModiftTheCollectionShouldThrowAnException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpg-exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unitTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unitTesting" />
+      <option name="MAIN_CLASS_NAME" value="unitTesting.RaceEntryTest" />
+      <option name="METHOD_NAME" value="gettingAndTryingToModiftTheCollectionShouldThrowAnException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RaceEntryTest.gettingAndTryingToModiftTheCollectionShouldThrowAnException" />
+        <item itemvalue="JUnit.RaceEntryTest.calculationMethodShouldThrowException" />
+        <item itemvalue="JUnit.RaceEntryTest.calculationMathodShouldWorkCorrectly" />
+        <item itemvalue="JUnit.RaceEntryTest.addMethodShouldThrowIllegalException" />
+        <item itemvalue="JUnit.RaceEntryTest.addMethodShouldThrowNullException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d93f2b2f-da8e-48d5-8ca0-2fb15f242936" name="Default Changelist" comment="" />
+      <created>1565376426102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565376426102</updated>
+      <workItem from="1565376429311" duration="2558000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
